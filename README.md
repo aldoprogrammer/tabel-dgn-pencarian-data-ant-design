@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-You all can use this code.
+You all can use this code. So it will save your time.
 ### `npm start`
 
 Runs the app in the development mode.\
